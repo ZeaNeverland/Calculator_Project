@@ -1,6 +1,50 @@
 # calculator_project
 
-A new Flutter project.
+# Calculator Project
+
+Aplikasi **Kalkulator Flutter** adalah sebuah aplikasi sederhana dan intuitif yang dikembangkan menggunakan framework **Flutter**. Aplikasi ini memungkinkan pengguna untuk melakukan perhitungan matematika dasar dengan tampilan yang responsif dan ramah pengguna.
+
+## Fitur Utama
+✅ **Operasi Matematika Dasar** – Mendukung penjumlahan, pengurangan, perkalian, dan pembagian.  
+✅ **Antarmuka Modern** – Desain UI yang minimalis dan elegan dengan tampilan yang bersih.  
+✅ **Responsif & Cepat** – Perhitungan dilakukan secara instan tanpa lag.  
+✅ **Dukungan Mode Gelap** – Tampilan bisa beralih ke mode terang atau gelap sesuai preferensi pengguna.  
+✅ **Histori Perhitungan** – Menyimpan riwayat perhitungan sehingga pengguna dapat melihat kembali hasil sebelumnya (opsional).  
+✅ **Animasi Halus** – Menggunakan efek animasi ringan untuk pengalaman pengguna yang lebih baik.  
+
+## Teknologi yang Digunakan
+🔹 **Flutter** – Framework utama untuk pengembangan aplikasi.  
+🔹 **Dart** – Bahasa pemrograman yang digunakan untuk mengembangkan logika aplikasi.  
+🔹 **Provider/Bloc** (Opsional) – Untuk manajemen state jika diperlukan.  
+
+## Cara Menjalankan Aplikasi
+1. **Clone Repository**
+   ```sh
+   git clone https://github.com/username/calculator_project.git
+   cd calculator_project
+   ```
+2. **Install Dependencies**
+   ```sh
+   flutter pub get
+   ```
+3. **Jalankan Aplikasi**
+   ```sh
+   flutter run
+   ```
+
+## Screenshot
+_(Tambahkan screenshot aplikasi jika ada)_
+
+## Kontribusi
+Kontribusi sangat diterima! Jika ingin menambahkan fitur atau memperbaiki bug, silakan buat pull request atau diskusikan terlebih dahulu melalui issue.
+
+## Lisensi
+Aplikasi ini dirilis di bawah lisensi **MIT**. Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
+
+---
+💡 *Jangan lupa untuk memberi ⭐ pada repository ini jika Anda merasa aplikasi ini bermanfaat!* 🚀
+
+
 
 ## Getting Started
 
