@@ -239,7 +239,7 @@ class ProfileScreen extends StatelessWidget {
               SizedBox(height: 30),
               ElevatedButton(
                 onPressed: () {},
-                child: Text("Edit"),
+                child: Text("By Niya"),
                 style: ElevatedButton.styleFrom(backgroundColor: Colors.redAccent),
               ),
             ],
