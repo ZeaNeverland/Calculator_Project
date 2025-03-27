@@ -33,7 +33,8 @@ Aplikasi **Kalkulator Flutter** adalah sebuah aplikasi sederhana dan intuitif ya
    ```
 
 ## Screenshot
-_(Tambahkan screenshot aplikasi jika ada)_
+</![calculator project](https://github.com/user-attachments/assets/170c624a-b2b2-4dce-9030-3129a6e3127d)
+>
 
 ## Kontribusi
 Kontribusi sangat diterima! Jika ingin menambahkan fitur atau memperbaiki bug, silakan buat pull request atau diskusikan terlebih dahulu melalui issue.
